@@ -1,0 +1,187 @@
+[
+  {
+    "nome": "Avocadini Guffo",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR78pxYhtJ5jKYqszU4TROI6qbw4-5efc03CpRIigEE3g&s=10",
+    "categoria": "Comum"
+  },
+  {
+    "nome": "Penguino Cocosino",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwI7QLnCSeVF6q2H-KbDvpk2QMuHuUk_LXdTrtDfRAYw&s=10",
+    "categoria": "Comum"
+  },
+  {
+    "nome": "Orangutini Ananasini",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5740tKl28nrP6JC3x7ISW6TL525pRf3nDAckTQCKBvQ&s=10",
+    "categoria": "Comum"
+  },
+  {
+    "nome": "Il Cacto Hipopotamo",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW-qc-nJHrfYzHDMy5vjvRKmo4MnAdXxLpEUNB_1KPog&s=10",
+    "categoria": "Comum"
+  },
+  {
+    "nome": "Bobrito Bandito",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrOBQY9ABl7HE5u-PFjqmvlnUYDUH7wAWWjUdPEeEbWg&s=10",
+    "categoria": "Comum"
+  },
+  {
+    "nome": "Frigo Camelo",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkY489uBnkeVF0OwyHAXAcGxyxsdY2dF2OC4RMUREdg&s=10",
+    "categoria": "Comum"
+  },
+  {
+    "nome": "Ta Ta Ta Ta Sahur",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwK-QTbwOKkHE9bZnyrLhiIRQ_vvAZt0LAsr0L7Gxutg&s=10",
+    "categoria": "Comum"
+  },
+  {
+    "nome": "Burbaloni Luliloli",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1VG55Uh8IQPlyjVbVfZsv-CA_7tzHBukwpfuH1QZm1Q&s=10",
+    "categoria": "Comum"
+  },
+  {
+    "nome": "Tric Trac Baraboom",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTtwpaVFZhL6OupVexLGm6wr5bjL1r37ZaBWIfuVie7A&s=10",
+    "categoria": "Comum"
+  },
+  {
+    "nome": "Tob Tobi Tobi",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS84HE3GevQb_hbSgZVFG5yaMGdTgTkpjMx2wn7ayXatg&s=10",
+    "categoria": "Comum"
+  },
+  {
+    "nome": "Pinealotto Fruttarino",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLfcO_WMdJloXzsvkMwh18S4GuOScUg3nAhGhugvoMZg&s=10",
+    "categoria": "Comum"
+  },
+  {
+    "nome": "Frogo Elfo",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREOA7Q9qMAWcO4cLc1DGWbLO30cNKvOfQ6-jG3j6cy9g&s=10",
+    "categoria": "Comum"
+  },
+  {
+    "nome": "Pengolino Nuvoletto",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsOCPWDJ4Tc5TbXVJkTcd-hLlhHspRv7erRANbHMNolUkgpF-Ne7fyshE&s=10",
+    "categoria": "Comum"
+  },
+  {
+    "nome": "Cupcake Koala",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTicShVzUrgv6KBvlLAP_DgcdPo0qRI19pQhjk19UeqaQ&s=10",
+    "categoria": "Comum"
+  },
+  {
+    "nome": "Elefanto Frigo",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Wdc1QMWKcMyzSYoyKzAWkJ8rKEF7E9AaFAOhztJvsw&s=10",
+    "categoria": "Comum"
+  },
+  {
+    "nome": "Gangster Footera",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfnQT4wCLok-H17fGDbtz5DrAfcT-TnVrzYSg-2F3Usw&s=10",
+    "categoria": "Comum"
+  },
+  {
+    "nome": "Gorillo Watermellondrillo",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaMmVGtn2Os8vjI64dg0ZnHi4h22xVSgwNoZGc22rqyg&s=10",
+    "categoria": "Raro"
+  },
+  {
+    "nome": "Crocodillo Ananasinno",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBhkLp5YehL_rDGn8uvsxGXMmLY5Zwp3vKUi2DKYBYMw&s=10",
+    "categoria": "Raro"
+  },
+  {
+    "nome": "Leonelli Cactuselli",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9UgJdZ06oSgvKzaTOYMnQP_vdvTpOG81Blji56hOvig&s=10",
+    "categoria": "Raro"
+  },
+  {
+    "nome": "U Din Din Din Din Dun Ma Din Din Din Dun",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQxjYT3qJKXxTkh-pesrZ-Ir_Mr_gqbQP2BXEAB1xhwQ&s=10",
+    "categoria": "Raro"
+  },
+  {
+    "nome": "Trulimero Trulicina",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpKyGcgRTI3VerOMfSCzmQ1XRfoFv7CaFsBPRJuasJJQ&s=10",
+    "categoria": "Raro"
+  },
+  {
+    "nome": "Lirili Larila",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR6Tghy9s7xJvPp5dNmdml70UjHe8s1PQ4yXj0Xj0tgCVYhpqpe6B1SGc&s=10",
+    "categoria": "Raro"
+  },
+  {
+    "nome": "Boneca Ambalabu",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5vR9yJozELrjbGcxcHR8vTwzzitfpfs0LaIYEHaBaug&s=10",
+    "categoria": "Raro"
+  },
+  {
+    "nome": "Brr Brr Patapim",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT965ziqLC_FlC5DoqR9AQREDe8L8ZtZEbM68me8de20w&s=10",
+    "categoria": "Raro"
+  },
+  {
+    "nome": "Ballerina Cappuccina",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEWdLhD2Pct6C7dY9T4f3K8hpDLlGpdwITyHth2zy49w&s=10",
+    "categoria": "Raro"
+  },
+  {
+    "nome": "Cappuccino Assassino",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4mMUUy5xi9hjC8S-m4__CIeRh0CgzHycY59CD7ccX-g&s=10",
+    "categoria": "Raro"
+  },
+  {
+    "nome": "Chimpanzini Bananini",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAZ1hDy8szWJcJYVVTLnPXSEXawAaBI0ZMky9-Bf4cLw&s=10",
+    "categoria": "Raro"
+  },
+  {
+    "nome": "Bombombini Gusini",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCddKTQV7A6enksnXhw2mxjHE6DO6w6T9RboJOE70uig&s=10",
+    "categoria": "Raro"
+  },
+  {
+    "nome": "Glorbo Fruttodrillo",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUIujGS-6C3LzfWj87z2o0zbTn7XCXNuQCsmRjCBKxoQ&s=10",
+    "categoria": "Épico"
+  },
+  {
+    "nome": "Trippi Troppi",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJRHpy_vLl706aIvrb1WR6-78fdn7uk02hbLNZ4b6QSg&s=10",
+    "categoria": "Épico"
+  },
+  {
+    "nome": "Cacto Hipopotamo",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBhAGcrTowzLhYSskeakvxT6gzalkJodmVjK2-68qx7w&s=10",
+    "categoria": "Épico"
+  },
+  {
+    "nome": "La Vaca Saturno Saturnita",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk8qb2RLcqU7YR8ZsMfJdT-IrjR20W9sRKlD-HsX_i7g&s=10",
+    "categoria": "Épico"
+  },
+  {
+    "nome": "Spioniro Golubiro",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhtx35w_ktfsn1vnupnMiD7Gm4zc1w3Wqa9EsA01P3pg&s=10",
+    "categoria": "Épico"
+  },
+  {
+    "nome": "Buho de Noelo",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMto5D3eE2LV2pIECLutsSh91SGX1N5PqL46drY2no7Q&s=10",
+    "categoria": "Épico"
+  },
+  {
+    "nome": "Tung Tung Tung Sahur",
+    "imagem": "https://i.redd.it/hb7kcje18sve1.jpeg",
+    "categoria": "Lendario"
+  },
+  {
+    "nome": "Bombardiro Crocodilo",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf2xS9dLHFZdZJYUWNzw_5H8rGKQEp-UqW_3e-p3nYHA&s",
+    "categoria": "Lendario"
+  },
+  {
+    "nome": "Tralalero Tralala",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnY8hmduF0-PK2vHljiRavQiM3ebX3ZEi90dQN5VlpvA&s=10",
+    "categoria": "Lendario"
+  }
+]
